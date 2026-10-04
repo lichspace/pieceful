@@ -1,0 +1,526 @@
+{
+  "generator": "Built-in image_gen",
+  "addedAssets": 52,
+  "assets": [
+    {
+      "category": "nature",
+      "imageName": "desert_oasis",
+      "title": "沙海绿洲",
+      "style": "layered cut-paper art",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A blue oasis among patterned terracotta dunes with palms, desert flowers and scattered stones. Style/medium: layered cut-paper art. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "desert_oasis.jpg"
+    },
+    {
+      "category": "animals",
+      "imageName": "owl_moon",
+      "title": "月夜猫头鹰",
+      "style": "intricate colored woodcut print",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A barn owl perched among twisting oak branches with fern leaves, moths and a luminous moon behind. Style/medium: intricate colored woodcut print. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "owl_moon.jpg"
+    },
+    {
+      "category": "vehicles",
+      "imageName": "sailboat_harbor",
+      "title": "港湾帆船",
+      "style": "sunlit travel photography",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: Wooden sailboats moored in a picturesque harbor with ropes, buoys, colorful houses and textured clouds. Style/medium: sunlit travel photography. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "sailboat_harbor.jpg"
+    },
+    {
+      "category": "architecture",
+      "imageName": "mountain_castle",
+      "title": "云山古堡",
+      "style": "cinematic fantasy matte painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: An old stone castle above a misty mountain valley with a winding path and colorful forest. Style/medium: cinematic fantasy matte painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "mountain_castle.jpg"
+    },
+    {
+      "category": "architecture",
+      "imageName": "desert_palace",
+      "title": "沙漠宫殿",
+      "style": "detailed gouache architectural illustration",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: An ornate sandstone palace with geometric windows, palm gardens and blue tiled fountains near desert dunes. Style/medium: detailed gouache architectural illustration. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "desert_palace.jpg"
+    },
+    {
+      "category": "architecture",
+      "imageName": "floating_library",
+      "title": "云端图书馆",
+      "style": "rich illustrated fantasy storybook",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A whimsical library building on a floating island with hanging gardens, curved stairways and drifting clouds. Style/medium: rich illustrated fantasy storybook. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "floating_library.jpg"
+    },
+    {
+      "category": "mecha",
+      "imageName": "mecha_guardian",
+      "title": "森林守护者",
+      "style": "cinematic highly detailed concept painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: An original friendly green and ivory humanoid mecha standing in a lush forest clearing with mossy stones, ferns and tiny birds. Style/medium: cinematic highly detailed concept painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "mecha_guardian.jpg"
+    },
+    {
+      "category": "architecture",
+      "imageName": "forest_cabin",
+      "title": "林间木屋",
+      "style": "miniature felt and wool diorama",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A cozy timber cabin with a red roof among pine trees, logs, a stone path and late summer flowers. Style/medium: miniature felt and wool diorama. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "forest_cabin.jpg"
+    },
+    {
+      "category": "vehicles",
+      "imageName": "steam_train",
+      "title": "山谷蒸汽列车",
+      "style": "detailed oil painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A vintage steam train crossing a stone viaduct through a lush mountain valley. Style/medium: detailed oil painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "steam_train.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "comet_valley",
+      "title": "彗星山谷",
+      "style": "delicate watercolor fantasy painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A brilliant comet arching above a crystalline alien valley with reflective pools, sculpted rocks and luminous plants. Style/medium: delicate watercolor fantasy painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "comet_valley.jpg"
+    },
+    {
+      "category": "architecture",
+      "imageName": "canal_houses",
+      "title": "运河小镇",
+      "style": "European travel watercolor",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: Colorful narrow houses beside a winding canal with arched bridges, bicycles and flower boxes. Style/medium: European travel watercolor. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "canal_houses.jpg"
+    },
+    {
+      "category": "nature",
+      "imageName": "bamboo_path",
+      "title": "竹林小径",
+      "style": "Chinese ink wash with jade mineral colors",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A stone path winding through a bamboo grove with ferns, mossy lantern stones and shafts of light. Style/medium: Chinese ink wash with jade mineral colors. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "bamboo_path.jpg"
+    },
+    {
+      "category": "nature",
+      "imageName": "mushroom_forest",
+      "title": "蘑菇秘境",
+      "style": "handmade clay miniature diorama",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A tiny magical forest of colorful mushrooms, fern fronds, dew drops and a winding stream. Style/medium: handmade clay miniature diorama. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "mushroom_forest.jpg"
+    },
+    {
+      "category": "nature",
+      "imageName": "aurora_pines",
+      "title": "极光松林",
+      "style": "cinematic landscape photograph style",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: Flowing aurora over a snowy pine forest, frozen river, small rocks and distant mountains. Style/medium: cinematic landscape photograph style. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "aurora_pines.jpg"
+    },
+    {
+      "category": "animals",
+      "imageName": "cat_window",
+      "title": "窗边的猫",
+      "style": "soft gouache storybook painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A ginger cat curled on a patterned cushion beside a window with flowerpots and a rainwashed garden outside. Style/medium: soft gouache storybook painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "cat_window.jpg"
+    },
+    {
+      "category": "animals",
+      "imageName": "otter_river",
+      "title": "河湾水獭",
+      "style": "polished stylized 3D animation still",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: Playful river otters beside a lily-covered riverbank with rippling water, reeds and smooth rocks. Style/medium: polished stylized 3D animation still. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "otter_river.jpg"
+    },
+    {
+      "category": "vehicles",
+      "imageName": "hot_air_balloons",
+      "title": "彩色热气球",
+      "style": "layered paper cut illustration",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: Patterned hot air balloons drifting above patchwork fields, winding rivers and a small village. Style/medium: layered paper cut illustration. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "hot_air_balloons.jpg"
+    },
+    {
+      "category": "architecture",
+      "imageName": "garden_courtyard",
+      "title": "竹影庭院",
+      "style": "Chinese ink and mineral pigment painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A peaceful Chinese courtyard with tiled roofs, bamboo shadows, a round moon gate and lotus pond. Style/medium: Chinese ink and mineral pigment painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "garden_courtyard.jpg"
+    },
+    {
+      "category": "animals",
+      "imageName": "deer_stream",
+      "title": "溪边小鹿",
+      "style": "delicate watercolor illustration",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A spotted deer at a clear stream with rounded pebbles, ferns and mossy woodland. Style/medium: delicate watercolor illustration. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "deer_stream.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "ringed_planet",
+      "title": "星环漫游",
+      "style": "cinematic science fiction concept painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A majestic ringed planet viewed from a rocky moon with colorful mineral ridges, a small unbranded explorer craft and distant nebula. Style/medium: cinematic science fiction concept painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "ringed_planet.jpg"
+    },
+    {
+      "category": "animals",
+      "imageName": "penguin_ice",
+      "title": "冰原企鹅",
+      "style": "natural wildlife photography",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A small group of emperor penguins on sculpted blue ice beside turquoise water, distant snowy peaks. Style/medium: natural wildlife photography. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "penguin_ice.jpg"
+    },
+    {
+      "category": "animals",
+      "imageName": "elephant_savanna",
+      "title": "草原大象",
+      "style": "warm expressive oil painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: An elephant family crossing a golden savanna with acacia trees, textured grass and distant hills. Style/medium: warm expressive oil painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "elephant_savanna.jpg"
+    },
+    {
+      "category": "nature",
+      "imageName": "lavender_hills",
+      "title": "薰衣草山丘",
+      "style": "impasto oil painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: Rows of lavender across rolling hills with a small farmhouse, cypress trees and textured sunset clouds. Style/medium: impasto oil painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "lavender_hills.jpg"
+    },
+    {
+      "category": "animals",
+      "imageName": "parrot_rainforest",
+      "title": "雨林鹦鹉",
+      "style": "crisp vibrant pixel art with detailed environmental storytelling",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: Two colorful macaws on branches among tropical flowers, layered rainforest leaves and vines. Style/medium: crisp vibrant pixel art with detailed environmental storytelling. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "parrot_rainforest.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "galaxy_train",
+      "title": "银河列车",
+      "style": "detailed vibrant pixel art",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A whimsical luminous train traveling on a starry bridge through a colorful spiral galaxy with planets and small moons. Style/medium: detailed vibrant pixel art. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "galaxy_train.jpg"
+    },
+    {
+      "category": "vehicles",
+      "imageName": "snow_express",
+      "title": "雪国列车",
+      "style": "cinematic photorealistic scene",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A modern blue train winding through snowy pine woods beside an icy lake with mountains behind. Style/medium: cinematic photorealistic scene. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "snow_express.jpg"
+    },
+    {
+      "category": "architecture",
+      "imageName": "snow_village",
+      "title": "雪落村庄",
+      "style": "detailed pixel art",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A snow-covered alpine village with wooden chalets, a stone bridge and a mountain backdrop at blue hour. Style/medium: detailed pixel art. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "snow_village.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "astronaut_flowers",
+      "title": "宇航员的花园",
+      "style": "warm gouache picture book illustration",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: An astronaut tending colorful plants in a greenhouse dome on a rocky alien world, stars and moons visible through curved glass. Style/medium: warm gouache picture book illustration. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "astronaut_flowers.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "mars_rover",
+      "title": "火星探险",
+      "style": "photorealistic planetary expedition scene",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A detailed scientific rover exploring a red Martian canyon with layered cliffs, pebbles and tracks. Style/medium: photorealistic planetary expedition scene. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "mars_rover.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "orbital_station",
+      "title": "环轨空间站",
+      "style": "retro futurist airbrush illustration",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A graceful rotating orbital station with solar sails above a vividly clouded blue planet, docked shuttles and stars. Style/medium: retro futurist airbrush illustration. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "orbital_station.jpg"
+    },
+    {
+      "category": "nature",
+      "imageName": "alpine_lake",
+      "title": "高山湖泊",
+      "style": "rich watercolor travel sketch",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A turquoise alpine lake with snow peaks, rocks, fir trees and wildflowers in the foreground. Style/medium: rich watercolor travel sketch. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "alpine_lake.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "desert_rover",
+      "title": "沙丘越野车",
+      "style": "stylized 3D miniature diorama",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: An orange exploration rover with large wheels driving among sculpted desert dunes and rocky outcrops. Style/medium: stylized 3D miniature diorama. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "desert_rover.jpg"
+    },
+    {
+      "category": "vehicles",
+      "imageName": "moon_bicycle",
+      "title": "月光飞艇",
+      "style": "intricate steampunk ink and watercolor illustration",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A whimsical brass airship with patterned sails floating over a clockwork city at twilight. Style/medium: intricate steampunk ink and watercolor illustration. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "moon_bicycle.jpg"
+    },
+    {
+      "category": "vehicles",
+      "imageName": "retro_bicycle",
+      "title": "花篮自行车",
+      "style": "delicate watercolor painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A vintage mint bicycle with a basket of flowers leaning by a brick garden wall and climbing roses. Style/medium: delicate watercolor painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "retro_bicycle.jpg"
+    },
+    {
+      "category": "nature",
+      "imageName": "lotus_pond",
+      "title": "夏日荷塘",
+      "style": "traditional Chinese meticulous brush painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: Blooming pink lotus flowers, layered green leaves, dragonflies and koi in a sun-dappled pond. Style/medium: traditional Chinese meticulous brush painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "lotus_pond.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "moon_base",
+      "title": "月球基地",
+      "style": "detailed isometric 3D miniature diorama",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A cozy lunar research base with domes, connecting tunnels, solar arrays and a little rover on textured moon terrain, Earth in the sky. Style/medium: detailed isometric 3D miniature diorama. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "moon_base.jpg"
+    },
+    {
+      "category": "ocean",
+      "imageName": "coral_turtle",
+      "title": "珊瑚海龟",
+      "style": "underwater wildlife photography aesthetic",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A sea turtle gliding over a richly varied tropical coral reef with colorful fish, sunbeams and textured rocks. Style/medium: underwater wildlife photography aesthetic. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "coral_turtle.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "saturn_observatory",
+      "title": "星际观测台",
+      "style": "textured layered paper-cut illustration",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: An observatory dome and telescope on a snowy moon ridge beneath a huge ringed planet, warm windows and rocky foreground. Style/medium: textured layered paper-cut illustration. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "saturn_observatory.jpg"
+    },
+    {
+      "category": "vehicles",
+      "imageName": "city_bus",
+      "title": "城市巴士",
+      "style": "crisp detailed pixel art",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A cheerful yellow city bus traveling on a leafy neighborhood street past colorful houses and flower beds. Style/medium: crisp detailed pixel art. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "city_bus.jpg"
+    },
+    {
+      "category": "animals",
+      "imageName": "rabbit_garden",
+      "title": "花园白兔",
+      "style": "cozy miniature clay diorama",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: Two white rabbits exploring a richly planted garden of carrots, wildflowers, terracotta pots and clover. Style/medium: cozy miniature clay diorama. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "rabbit_garden.jpg"
+    },
+    {
+      "category": "animals",
+      "imageName": "fox_autumn",
+      "title": "秋林小狐狸",
+      "style": "layered cut-paper illustration with tactile paper edges",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A red fox resting among autumn leaves, mushrooms and patterned birch trunks in a sunlit woodland. Style/medium: layered cut-paper illustration with tactile paper edges. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "fox_autumn.jpg"
+    },
+    {
+      "category": "nature",
+      "imageName": "canyon_river",
+      "title": "峡谷长河",
+      "style": "detailed colorful pixel art",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A meandering blue river through layered red sandstone canyon walls with desert plants in the foreground. Style/medium: detailed colorful pixel art. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "canyon_river.jpg"
+    },
+    {
+      "category": "space",
+      "imageName": "nebula_garden",
+      "title": "星云花园",
+      "style": "deep space astrophotography aesthetic",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A richly structured nebula with swirling violet and teal gas, dense luminous star clusters and dark dust lanes. Style/medium: deep space astrophotography aesthetic. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "nebula_garden.jpg"
+    },
+    {
+      "category": "architecture",
+      "imageName": "rainy_street",
+      "title": "雨后街角",
+      "style": "impressionist oil painting",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A charming quiet street of small cafes with blank awnings, wet cobblestones, warm windows and umbrellas. Style/medium: impressionist oil painting. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "rainy_street.jpg"
+    },
+    {
+      "category": "architecture",
+      "imageName": "seaside_villa",
+      "title": "海岸白屋",
+      "style": "sunlit travel photography",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: White Mediterranean villas with blue doors, bougainvillea, terraced stairs and the sparkling sea. Style/medium: sunlit travel photography. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "seaside_villa.jpg"
+    },
+    {
+      "category": "nature",
+      "imageName": "autumn_waterfall",
+      "title": "秋日瀑布",
+      "style": "natural landscape photography",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A tiered waterfall surrounded by red maple trees, mossy rocks and fallen autumn leaves. Style/medium: natural landscape photography. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "autumn_waterfall.jpg"
+    },
+    {
+      "category": "vehicles",
+      "imageName": "propeller_plane",
+      "title": "云间小飞机",
+      "style": "vintage travel poster gouache without lettering",
+      "prompt": "Use case: stylized-concept. Asset type: full-resolution artwork for a relaxing jigsaw puzzle app. Create one complete landscape image in 4:3 aspect ratio, ideally 1536 x 1152 pixels. Scene: A red propeller plane flying over a richly detailed patchwork valley with a winding river and soft clouds. Style/medium: vintage travel poster gouache without lettering. Richly composed with clear silhouettes, distinct color regions and interesting details across the entire frame, appropriate for a 96-piece puzzle. Full-bleed finished artwork, pleasing and family-friendly. No text, letters, numbers, logos, watermarks, borders, panel divisions or collage. Original designs only.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "propeller_plane.jpg"
+    },
+    {
+      "category": "mecha",
+      "imageName": "mecha_star_patrol",
+      "title": "星环巡逻队",
+      "style": "chibi sci-fi mecha squads, colorful detailed stylized 3D concept art",
+      "prompt": "Use case: stylized-concept. Asset type: finished jigsaw puzzle artwork for the mecha category of a relaxing family-friendly app. Create one original complete landscape illustration, precisely 4:3 aspect ratio, ideally 1536 x 1152 pixels. Style: a cohesive Quantum Squad-inspired visual direction of charming chibi sci-fi mecha teammates rendered as premium detailed stylized 3D animation concept art, rounded oversized helmets, expressive glowing eyes, compact sturdy bodies, meticulously articulated mechanical joints, colorful enamel armor with subtle brushed-metal wear, polished cinematic lighting, playful heroic teamwork and a sense of wonder. Three clearly distinct friendly humanoid robots, each with two arms and two legs, distinct silhouettes, no humans. Compose a rich immersive full-bleed scene with engaging details and distinguishable colors throughout all four corners so it works well as a 96-piece puzzle. Moderate depth of field, environment and robots both readable. No text, lettering, numbers, logos, watermarks, frames, split panels, collage, puzzle-piece lines or known franchise designs.\nScene: Three friendly mecha explorers on a moon's observatory terrace overlooking a spectacular ringed planet and tiny orbital stations. A cobalt-blue and ivory leader kneels to examine a glowing star-map orb, a short orange robot holds a navigation beacon, and a mint-green robot adjusts a small telescope. Ribbed metal decking, coiled cables, moon pebbles and translucent crystalline growths in the foreground; white research domes and mountain ridges in the middle distance. Rich indigo and teal with warm orange accents and violet rim light. A welcoming expedition scene with all three robots fully visible.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "mecha_star_patrol.jpg"
+    },
+    {
+      "category": "mecha",
+      "imageName": "mecha_neon_vanguard",
+      "title": "霓虹先锋队",
+      "style": "chibi sci-fi mecha squads, colorful detailed stylized 3D concept art",
+      "prompt": "Use case: stylized-concept. Asset type: finished jigsaw puzzle artwork for the mecha category of a relaxing family-friendly app. Create one original complete landscape illustration, precisely 4:3 aspect ratio, ideally 1536 x 1152 pixels. Style: a cohesive Quantum Squad-inspired visual direction of charming chibi sci-fi mecha teammates rendered as premium detailed stylized 3D animation concept art, rounded oversized helmets, expressive glowing eyes, compact sturdy bodies, meticulously articulated mechanical joints, colorful enamel armor with subtle brushed-metal wear, polished cinematic lighting, playful heroic teamwork and a sense of wonder. Three clearly distinct friendly humanoid robots, each with two arms and two legs, distinct silhouettes, no humans. Compose a rich immersive full-bleed scene with engaging details and distinguishable colors throughout all four corners so it works well as a 96-piece puzzle. Moderate depth of field, environment and robots both readable. No text, lettering, numbers, logos, watermarks, frames, split panels, collage, puzzle-piece lines or known franchise designs.\nScene: Three friendly mecha teammates explore a futuristic neon city canal at blue hour. A coral-red and cream robot stands on a small arched pedestrian bridge pointing toward an illuminated rooftop garden; a cobalt-blue robot holds a floating inspection orb; a yellow robot crouches beside a tiny maintenance drone. Wet paving stones reflect turquoise, pink and amber light, with canals, patterned pipes, hanging plants, illuminated windows and layered buildings creating visual variety. Luminous blank sign panels without any writing. Warm cinematic atmosphere, lively yet peaceful, all three robots clearly visible.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "mecha_neon_vanguard.jpg"
+    },
+    {
+      "category": "mecha",
+      "imageName": "mecha_aurora_explorers",
+      "title": "极光探索队",
+      "style": "chibi sci-fi mecha squads, colorful detailed stylized 3D concept art",
+      "prompt": "Use case: stylized-concept. Asset type: finished jigsaw puzzle artwork for the mecha category of a relaxing family-friendly app. Create one original complete landscape illustration, precisely 4:3 aspect ratio, ideally 1536 x 1152 pixels. Style: a cohesive Quantum Squad-inspired visual direction of charming chibi sci-fi mecha teammates rendered as premium detailed stylized 3D animation concept art, rounded oversized helmets, expressive glowing eyes, compact sturdy bodies, meticulously articulated mechanical joints, colorful enamel armor with subtle brushed-metal wear, polished cinematic lighting, playful heroic teamwork and a sense of wonder. Three clearly distinct friendly humanoid robots, each with two arms and two legs, distinct silhouettes, no humans. Compose a rich immersive full-bleed scene with engaging details and distinguishable colors throughout all four corners so it works well as a 96-piece puzzle. Moderate depth of field, environment and robots both readable. No text, lettering, numbers, logos, watermarks, frames, split panels, collage, puzzle-piece lines or known franchise designs.\nScene: Three friendly mecha explorers on a sparkling icy ridge beneath flowing green and lavender auroras. A white and turquoise leader raises a glowing compass orb, a rounded orange teammate carefully samples a blue crystal cluster, and a violet teammate stands beside a small six-wheeled science sled. Snow-dusted pine trees, angular blue ice, boot tracks, a warm yellow research cabin, layered mountains and a partly frozen reflective lake fill the environment. Distinct cool blue-white, peach-orange and purple regions; magical cinematic light. All three robots clearly visible, varied poses.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "mecha_aurora_explorers.jpg"
+    },
+    {
+      "category": "mecha",
+      "imageName": "mecha_desert_rescue",
+      "title": "沙海救援队",
+      "style": "chibi sci-fi mecha squads, colorful detailed stylized 3D concept art",
+      "prompt": "Use case: stylized-concept. Asset type: finished jigsaw puzzle artwork for the mecha category of a relaxing family-friendly app. Create one original complete landscape illustration, precisely 4:3 aspect ratio, ideally 1536 x 1152 pixels. Style: a cohesive Quantum Squad-inspired visual direction of charming chibi sci-fi mecha teammates rendered as premium detailed stylized 3D animation concept art, rounded oversized helmets, expressive glowing eyes, compact sturdy bodies, meticulously articulated mechanical joints, colorful enamel armor with subtle brushed-metal wear, polished cinematic lighting, playful heroic teamwork and a sense of wonder. Three clearly distinct friendly humanoid robots, each with two arms and two legs, distinct silhouettes, no humans. Compose a rich immersive full-bleed scene with engaging details and distinguishable colors throughout all four corners so it works well as a 96-piece puzzle. Moderate depth of field, environment and robots both readable. No text, lettering, numbers, logos, watermarks, frames, split panels, collage, puzzle-piece lines or known franchise designs.\nScene: Three friendly mecha teammates cooperatively repair a small stranded exploration rover beside sandstone arches and sunlit dunes. A warm yellow and ivory robot lifts a detached wheel, a teal robot uses a compact repair tool, and a coral-red robot checks a holographic shape-only display. Detailed bronze chassis, tool cases, striped rock formations, wind-sculpted sand ripples, desert succulents and distant solar towers. Golden late-afternoon sunlight, terracotta and turquoise palette with clean colorful highlights. A cheerful teamwork scene with the three robots' bodies clearly separated and fully visible.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "mecha_desert_rescue.jpg"
+    },
+    {
+      "category": "mecha",
+      "imageName": "mecha_deepblue_divers",
+      "title": "深蓝潜航队",
+      "style": "chibi sci-fi mecha squads, colorful detailed stylized 3D concept art",
+      "prompt": "Use case: stylized-concept. Asset type: finished jigsaw puzzle artwork for the mecha category of a relaxing family-friendly app. Create one original complete landscape illustration, precisely 4:3 aspect ratio, ideally 1536 x 1152 pixels. Style: a cohesive Quantum Squad-inspired visual direction of charming chibi sci-fi mecha teammates rendered as premium detailed stylized 3D animation concept art, rounded oversized helmets, expressive glowing eyes, compact sturdy bodies, meticulously articulated mechanical joints, colorful enamel armor with subtle brushed-metal wear, polished cinematic lighting, playful heroic teamwork and a sense of wonder. Three clearly distinct friendly humanoid robots, each with two arms and two legs, distinct silhouettes, no humans. Compose a rich immersive full-bleed scene with engaging details and distinguishable colors throughout all four corners so it works well as a 96-piece puzzle. Moderate depth of field, environment and robots both readable. No text, lettering, numbers, logos, watermarks, frames, split panels, collage, puzzle-piece lines or known franchise designs.\nScene: Three friendly amphibious mecha explorers walking along an underwater coral garden beside a small glass-domed marine research outpost. A pearl-white and blue robot holds a glowing scan orb near pink branching coral, a yellow teammate reaches toward a curious little fish, and a mint-green robot carries a compact sample container. Bubble trails, dappled sun shafts, teal water, layered fan corals, sea grass, orange sponges and schools of tiny fish create intricate colorful puzzle-friendly detail. Clearly mechanical robot faces visible through compact transparent helmet covers. Cheerful gentle exploration with all three robots clearly visible.",
+      "pixelWidth": 1448,
+      "pixelHeight": 1086,
+      "assetFile": "mecha_deepblue_divers.jpg"
+    }
+  ]
+}

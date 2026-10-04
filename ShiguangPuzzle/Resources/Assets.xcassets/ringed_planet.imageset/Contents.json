@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "filename": "ringed_planet.jpg",
+      "idiom": "universal",
+      "scale": "1x"
+    }
+  ],
+  "info": {
+    "author": "xcode",
+    "version": 1
+  }
+}

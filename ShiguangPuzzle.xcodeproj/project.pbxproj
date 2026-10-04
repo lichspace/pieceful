@@ -1,0 +1,158 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A10000010000000000000030 /* AppPalette.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000033 /* AppPalette.swift */; };
+		A10000010000000000000001 /* ShiguangPuzzleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000001 /* ShiguangPuzzleApp.swift */; };
+		A10000010000000000000002 /* GameCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000002 /* GameCore.swift */; };
+		A10000010000000000000003 /* PuzzleCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000003 /* PuzzleCatalog.swift */; };
+		A10000010000000000000004 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000004 /* Settings.swift */; };
+		A10000010000000000000005 /* AudioManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000005 /* AudioManager.swift */; };
+		A10000010000000000000006 /* EffectsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000006 /* EffectsManager.swift */; };
+		A10000010000000000000007 /* PuzzleBoardScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000007 /* PuzzleBoardScene.swift */; };
+		A10000010000000000000008 /* ViewModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000008 /* ViewModels.swift */; };
+		A10000010000000000000009 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000009 /* HomeView.swift */; };
+		A10000010000000000000010 /* CategoryListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000010 /* CategoryListView.swift */; };
+		A10000010000000000000011 /* PuzzleSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000011 /* PuzzleSelectionView.swift */; };
+		A10000010000000000000012 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000012 /* SettingsView.swift */; };
+		A10000010000000000000013 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000013 /* ResultView.swift */; };
+		A10000010000000000000014 /* PuzzleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000014 /* PuzzleView.swift */; };
+		A10000010000000000000016 /* red_panda.png in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000016 /* red_panda.png */; };
+		A10000010000000000000017 /* lighthouse.png in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000017 /* lighthouse.png */; };
+		A10000010000000000000018 /* tram.png in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000018 /* tram.png */; };
+		A10000010000000000000019 /* meadow.png in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000019 /* meadow.png */; };
+		A10000010000000000000020 /* ambient.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000020 /* ambient.mp3 */; };
+		A10000010000000000000021 /* pickup.wav in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000021 /* pickup.wav */; };
+		A10000010000000000000022 /* drop.wav in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000022 /* drop.wav */; };
+		A10000010000000000000023 /* snap.wav in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000023 /* snap.wav */; };
+		A10000010000000000000024 /* hint.wav in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000024 /* hint.wav */; };
+		A10000010000000000000025 /* complete.wav in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000025 /* complete.wav */; };
+		A10000010000000000000029 /* snap-click.wav in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000032 /* snap-click.wav */; };
+		A10000010000000000000026 /* GameCoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000026 /* GameCoreTests.swift */; };
+		A10000010000000000000027 /* NavigationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000029 /* NavigationUITests.swift */; };
+		A10000010000000000000028 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B10000010000000000000031 /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E20000010000000000000001 /* Proxy */ = {isa = PBXContainerItemProxy; containerPortal = E10000010000000000000010; proxyType = 1; remoteGlobalIDString = E10000010000000000000001; remoteInfo = ShiguangPuzzle; };
+		E20000010000000000000003 /* UI test proxy */ = {isa = PBXContainerItemProxy; containerPortal = E10000010000000000000010; proxyType = 1; remoteGlobalIDString = E10000010000000000000001; remoteInfo = ShiguangPuzzle; };
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B10000010000000000000033 /* AppPalette.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppPalette.swift; sourceTree = "<group>"; };
+		B10000010000000000000001 /* ShiguangPuzzleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiguangPuzzleApp.swift; sourceTree = "<group>"; };
+		B10000010000000000000002 /* GameCore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCore.swift; sourceTree = "<group>"; };
+		B10000010000000000000003 /* PuzzleCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleCatalog.swift; sourceTree = "<group>"; };
+		B10000010000000000000004 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		B10000010000000000000005 /* AudioManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioManager.swift; sourceTree = "<group>"; };
+		B10000010000000000000006 /* EffectsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EffectsManager.swift; sourceTree = "<group>"; };
+		B10000010000000000000007 /* PuzzleBoardScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleBoardScene.swift; sourceTree = "<group>"; };
+		B10000010000000000000008 /* ViewModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModels.swift; sourceTree = "<group>"; };
+		B10000010000000000000009 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		B10000010000000000000010 /* CategoryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryListView.swift; sourceTree = "<group>"; };
+		B10000010000000000000011 /* PuzzleSelectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleSelectionView.swift; sourceTree = "<group>"; };
+		B10000010000000000000012 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		B10000010000000000000013 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		B10000010000000000000014 /* PuzzleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PuzzleView.swift; sourceTree = "<group>"; };
+		B10000010000000000000015 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B10000010000000000000016 /* red_panda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red_panda.png; sourceTree = "<group>"; };
+		B10000010000000000000017 /* lighthouse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lighthouse.png; sourceTree = "<group>"; };
+		B10000010000000000000018 /* tram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tram.png; sourceTree = "<group>"; };
+		B10000010000000000000019 /* meadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = meadow.png; sourceTree = "<group>"; };
+		B10000010000000000000020 /* ambient.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ambient.mp3; sourceTree = "<group>"; };
+		B10000010000000000000021 /* pickup.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = pickup.wav; sourceTree = "<group>"; };
+		B10000010000000000000022 /* drop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = drop.wav; sourceTree = "<group>"; };
+		B10000010000000000000023 /* snap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = snap.wav; sourceTree = "<group>"; };
+		B10000010000000000000024 /* hint.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hint.wav; sourceTree = "<group>"; };
+		B10000010000000000000025 /* complete.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = complete.wav; sourceTree = "<group>"; };
+		B10000010000000000000032 /* snap-click.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "snap-click.wav"; sourceTree = "<group>"; };
+		B10000010000000000000026 /* GameCoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameCoreTests.swift; sourceTree = "<group>"; };
+		B10000010000000000000027 /* ShiguangPuzzle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShiguangPuzzle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B10000010000000000000028 /* ShiguangPuzzleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShiguangPuzzleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B10000010000000000000029 /* NavigationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationUITests.swift; sourceTree = "<group>"; };
+		B10000010000000000000030 /* ShiguangPuzzleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShiguangPuzzleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B10000010000000000000031 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Resources/Assets.xcassets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C10000010000000000000001 /* Frameworks */ = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+		C10000010000000000000002 /* Frameworks */ = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+		C10000010000000000000007 /* Frameworks */ = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D10000010000000000000001 = {isa = PBXGroup; children = (D10000010000000000000002, D10000010000000000000003, D10000010000000000000004, D10000010000000000000008, ); sourceTree = "<group>"; };
+		D10000010000000000000002 /* ShiguangPuzzle */ = {isa = PBXGroup; children = (B10000010000000000000033, B10000010000000000000001, B10000010000000000000002, B10000010000000000000003, B10000010000000000000004, B10000010000000000000005, B10000010000000000000006, B10000010000000000000007, B10000010000000000000008, B10000010000000000000015, B10000010000000000000031, D10000010000000000000005, D10000010000000000000006, D10000010000000000000007, ); path = ShiguangPuzzle; sourceTree = "<group>"; };
+		D10000010000000000000003 /* Products */ = {isa = PBXGroup; children = (B10000010000000000000027, B10000010000000000000028, ); name = Products; sourceTree = "<group>"; };
+		D10000010000000000000004 /* ShiguangPuzzleTests */ = {isa = PBXGroup; children = (B10000010000000000000026, ); path = ShiguangPuzzleTests; sourceTree = "<group>"; };
+		D10000010000000000000008 /* ShiguangPuzzleUITests */ = {isa = PBXGroup; children = (B10000010000000000000029, ); path = ShiguangPuzzleUITests; sourceTree = "<group>"; };
+		D10000010000000000000005 /* Views */ = {isa = PBXGroup; children = (B10000010000000000000009, B10000010000000000000010, B10000010000000000000011, B10000010000000000000012, B10000010000000000000013, B10000010000000000000014, ); path = Views; sourceTree = "<group>"; };
+		D10000010000000000000006 /* Images */ = {isa = PBXGroup; children = (B10000010000000000000016, B10000010000000000000017, B10000010000000000000018, B10000010000000000000019, ); path = Resources/Images; sourceTree = "<group>"; };
+		D10000010000000000000007 /* Audio */ = {isa = PBXGroup; children = (B10000010000000000000020, B10000010000000000000021, B10000010000000000000022, B10000010000000000000023, B10000010000000000000024, B10000010000000000000025, B10000010000000000000032, ); path = Resources/Audio; sourceTree = "<group>"; };
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E10000010000000000000001 /* ShiguangPuzzle */ = {isa = PBXNativeTarget; buildConfigurationList = F10000010000000000000001; buildPhases = (C10000010000000000000003, C10000010000000000000001, C10000010000000000000004, ); buildRules = (); dependencies = (); name = ShiguangPuzzle; productName = ShiguangPuzzle; productReference = B10000010000000000000027; productType = "com.apple.product-type.application"; };
+		E10000010000000000000002 /* ShiguangPuzzleTests */ = {isa = PBXNativeTarget; buildConfigurationList = F10000010000000000000002; buildPhases = (C10000010000000000000005, C10000010000000000000002, C10000010000000000000006, ); buildRules = (); dependencies = (E20000010000000000000002, ); name = ShiguangPuzzleTests; productName = ShiguangPuzzleTests; productReference = B10000010000000000000028; productType = "com.apple.product-type.bundle.unit-test"; };
+		E10000010000000000000003 /* ShiguangPuzzleUITests */ = {isa = PBXNativeTarget; buildConfigurationList = F10000010000000000000003; buildPhases = (C10000010000000000000008, C10000010000000000000007, C10000010000000000000009, ); buildRules = (); dependencies = (E20000010000000000000004, ); name = ShiguangPuzzleUITests; productName = ShiguangPuzzleUITests; productReference = B10000010000000000000030; productType = "com.apple.product-type.bundle.ui-testing"; };
+/* End PBXNativeTarget section */
+
+/* Begin PBXTargetDependency section */
+		E20000010000000000000002 /* PBXTargetDependency */ = {isa = PBXTargetDependency; target = E10000010000000000000001; targetProxy = E20000010000000000000001; };
+		E20000010000000000000004 /* UI test target dependency */ = {isa = PBXTargetDependency; target = E10000010000000000000001; targetProxy = E20000010000000000000003; };
+/* End PBXTargetDependency section */
+
+/* Begin PBXProject section */
+		E10000010000000000000010 /* Project object */ = {
+			isa = PBXProject;
+			attributes = { LastUpgradeCheck = 1600; ORGANIZATIONNAME = Pieceful; TargetAttributes = { E10000010000000000000001 = { CreatedOnToolsVersion = 16.0; }; E10000010000000000000002 = { CreatedOnToolsVersion = 16.0; TestTargetID = E10000010000000000000001; }; E10000010000000000000003 = { CreatedOnToolsVersion = 16.0; TestTargetID = E10000010000000000000001; }; }; };
+			buildConfigurationList = F10000010000000000000010;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (en, Base, zh-Hans, );
+			mainGroup = D10000010000000000000001;
+			productRefGroup = D10000010000000000000003;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (E10000010000000000000001, E10000010000000000000002, E10000010000000000000003, );
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C10000010000000000000003 /* Resources */ = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (A10000010000000000000020, A10000010000000000000021, A10000010000000000000022, A10000010000000000000023, A10000010000000000000024, A10000010000000000000025, A10000010000000000000028, A10000010000000000000029, ); runOnlyForDeploymentPostprocessing = 0; };
+		C10000010000000000000005 /* Resources */ = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+		C10000010000000000000008 /* Resources */ = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C10000010000000000000004 /* Sources */ = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (A10000010000000000000030, A10000010000000000000001, A10000010000000000000002, A10000010000000000000003, A10000010000000000000004, A10000010000000000000005, A10000010000000000000006, A10000010000000000000007, A10000010000000000000008, A10000010000000000000009, A10000010000000000000010, A10000010000000000000011, A10000010000000000000012, A10000010000000000000013, A10000010000000000000014, ); runOnlyForDeploymentPostprocessing = 0; };
+		C10000010000000000000006 /* Sources */ = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (A10000010000000000000026, ); runOnlyForDeploymentPostprocessing = 0; };
+		C10000010000000000000009 /* Sources */ = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (A10000010000000000000027, ); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F10000010000000000000020 /* Debug */ = {isa = XCBuildConfiguration; buildSettings = { ALWAYS_SEARCH_USER_PATHS = NO; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; CLANG_ENABLE_MODULES = YES; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; DEBUG_INFORMATION_FORMAT = dwarf; GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = ShiguangPuzzle/Info.plist; IPHONEOS_DEPLOYMENT_TARGET = 16.0; MACOSX_DEPLOYMENT_TARGET = 13.0; PRODUCT_BUNDLE_IDENTIFIER = com.pieceful.ShiguangPuzzle; PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = auto; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx"; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; SWIFT_VERSION = 5.9; TARGETED_DEVICE_FAMILY = "1,2"; }; name = Debug; };
+		F10000010000000000000021 /* Release */ = {isa = XCBuildConfiguration; buildSettings = { ALWAYS_SEARCH_USER_PATHS = NO; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; CLANG_ENABLE_MODULES = YES; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; GENERATE_INFOPLIST_FILE = NO; INFOPLIST_FILE = ShiguangPuzzle/Info.plist; IPHONEOS_DEPLOYMENT_TARGET = 16.0; MACOSX_DEPLOYMENT_TARGET = 13.0; PRODUCT_BUNDLE_IDENTIFIER = com.pieceful.ShiguangPuzzle; PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = auto; SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx"; SWIFT_VERSION = 5.9; TARGETED_DEVICE_FAMILY = "1,2"; }; name = Release; };
+		F10000010000000000000022 /* Tests Debug */ = {isa = XCBuildConfiguration; buildSettings = { BUNDLE_LOADER = "$(TEST_HOST)"; CLANG_ENABLE_MODULES = YES; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; GENERATE_INFOPLIST_FILE = YES; IPHONEOS_DEPLOYMENT_TARGET = 16.0; PRODUCT_BUNDLE_IDENTIFIER = com.pieceful.ShiguangPuzzleTests; PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = auto; SWIFT_VERSION = 5.9; TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ShiguangPuzzle.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ShiguangPuzzle"; }; name = Debug; };
+		F10000010000000000000023 /* Tests Release */ = {isa = XCBuildConfiguration; buildSettings = { BUNDLE_LOADER = "$(TEST_HOST)"; CLANG_ENABLE_MODULES = YES; CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; GENERATE_INFOPLIST_FILE = YES; IPHONEOS_DEPLOYMENT_TARGET = 16.0; PRODUCT_BUNDLE_IDENTIFIER = com.pieceful.ShiguangPuzzleTests; PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = auto; SWIFT_VERSION = 5.9; TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ShiguangPuzzle.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ShiguangPuzzle"; }; name = Release; };
+		F10000010000000000000026 /* UI Tests Debug */ = {isa = XCBuildConfiguration; buildSettings = { CLANG_ENABLE_MODULES = YES; CODE_SIGN_STYLE = Automatic; GENERATE_INFOPLIST_FILE = YES; IPHONEOS_DEPLOYMENT_TARGET = 16.0; PRODUCT_BUNDLE_IDENTIFIER = com.pieceful.ShiguangPuzzleUITests; PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = auto; SWIFT_VERSION = 5.9; TEST_TARGET_NAME = ShiguangPuzzle; }; name = Debug; };
+		F10000010000000000000027 /* UI Tests Release */ = {isa = XCBuildConfiguration; buildSettings = { CLANG_ENABLE_MODULES = YES; CODE_SIGN_STYLE = Automatic; GENERATE_INFOPLIST_FILE = YES; IPHONEOS_DEPLOYMENT_TARGET = 16.0; PRODUCT_BUNDLE_IDENTIFIER = com.pieceful.ShiguangPuzzleUITests; PRODUCT_NAME = "$(TARGET_NAME)"; SDKROOT = auto; SWIFT_VERSION = 5.9; TEST_TARGET_NAME = ShiguangPuzzle; }; name = Release; };
+		F10000010000000000000024 /* Project Debug */ = {isa = XCBuildConfiguration; buildSettings = { CLANG_ENABLE_MODULES = YES; SWIFT_VERSION = 5.9; }; name = Debug; };
+		F10000010000000000000025 /* Project Release */ = {isa = XCBuildConfiguration; buildSettings = { CLANG_ENABLE_MODULES = YES; SWIFT_VERSION = 5.9; }; name = Release; };
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F10000010000000000000001 /* Build configuration list for ShiguangPuzzle */ = {isa = XCConfigurationList; buildConfigurations = (F10000010000000000000020, F10000010000000000000021, ); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		F10000010000000000000002 /* Build configuration list for ShiguangPuzzleTests */ = {isa = XCConfigurationList; buildConfigurations = (F10000010000000000000022, F10000010000000000000023, ); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		F10000010000000000000003 /* Build configuration list for ShiguangPuzzleUITests */ = {isa = XCConfigurationList; buildConfigurations = (F10000010000000000000026, F10000010000000000000027, ); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		F10000010000000000000010 /* Build configuration list for PBXProject */ = {isa = XCConfigurationList; buildConfigurations = (F10000010000000000000024, F10000010000000000000025, ); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+/* End XCConfigurationList section */
+	};
+	rootObject = E10000010000000000000010 /* Project object */;
+}
