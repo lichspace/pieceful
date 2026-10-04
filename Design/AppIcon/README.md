@@ -3,7 +3,7 @@
 当前版本：可爱水晶风格。单枚圆润亮青蓝拼图块，粉紫折射边缘，糖果粉背景；简洁、明亮、易识别。
 
 - `pieceful-ios-source.png`：内置 ImageGen 编辑的原图，背景全不透明，外部四角不预裁切。
-- `pieceful-macos-source.png`：内置 ImageGen 编辑的 Mac 版本，圆角底板外保留透明留白。
+- `pieceful-macos-source.png`：从 iOS 1024 图重新裁切的 Mac 版本，内容铺满 1024 画布，只在四个圆角外保留透明区域，避免 Launchpad 里出现“小图标套大底座”的效果。
 - 发布资源位于 `../../ShiguangPuzzle/Resources/Assets.xcassets/AppIcon.appiconset`，使用 macOS `sips` 缩放导出。20 个 PNG 覆盖 iPhone、iPad、App Store 和 Mac 的 28 个图标槽位。
 - Xcode 主应用的 Debug / Release 均使用 `ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon`。
 - 旧版风景图标的原图及生成记录保留在 `archive/classic/`。
@@ -22,7 +22,13 @@ Remove all landscape imagery, mountains, sun, wood grain, painterly texture, dar
 Constraints: output just one production-ready icon, at least 1024 by 1024 square. The entire background must be opaque to all four corners; do not round the outer canvas. No text, letters, faces, extra pieces, stars, floating decorations, glitter particles, complex scene, sharp spiky gems, frame, border, watermark, grid or device mockup. The puzzle piece itself should be translucent colorful crystal, while the final square image is fully opaque.
 ```
 
-## macOS 适配提示词
+## macOS 适配说明
+
+当前 macOS 图标不再使用外部透明留白的小底板版本。导出方式是以 `icon-ios-1024.png` 为源图，裁成完整 1024 圆角方形，再缩放为 macOS 的 16、32、64、128、256、512、1024 六个尺寸。
+
+如果后续重新生成 Mac 图标，应保持内容铺满画布，透明区域只出现在圆角外侧，不要添加外部阴影、边框、额外底座或离散噪点。
+
+## 旧版 macOS 适配提示词
 
 ```text
 Use case: precise-object-edit
